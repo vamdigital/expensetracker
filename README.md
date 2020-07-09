@@ -8,7 +8,7 @@ An Application to keep tracker of income and expenses
 * Reselect
 
 ## Screenshot
-![image](https://user-images.githubusercontent.com/52628995/87067362-db6cf080-c20b-11ea-80b9-7680612d78c2.png)
+![image](https://user-images.githubusercontent.com/52628995/87068048-f0964f00-c20c-11ea-9adf-f7c399c9f8c0.png)
 
 ## Demo Url
 http://vam-expensetracker.netlify.com
